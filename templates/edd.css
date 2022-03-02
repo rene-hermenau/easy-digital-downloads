@@ -162,7 +162,8 @@
 	font-size: 120%;
 	line-height: 1;
 	font-weight: bold;
-	width: 100%;
+	width:100%;
+	max-width:300px;
 	margin: 0 0 21px;
 	padding: 0;
 }
